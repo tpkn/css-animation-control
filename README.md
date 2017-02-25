@@ -13,7 +13,7 @@ var ac = new CssAnimationControl(document.getElementById('container'), 14.7);
 
 Default control button is `SPACEBAR`
 
-Direct access to main methods
+Direct access to main methods:
 ```javascript
 ac.play();
 ac.pause();
@@ -24,7 +24,7 @@ ac.toggle();
 
 ### Customisations
 
-You could change timeline bar style like you do it in css
+You could change timeline bar style like you do it in css:
 ```css
-'bottom:0; height:5px; background-color:#ff0000;'
+bottom:0; height:5px; background-color:#ff0000
 ```
