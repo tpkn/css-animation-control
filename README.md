@@ -22,9 +22,14 @@ ac.toggle();
 
 
 
+
 ### Customisations
 
 You could change timeline bar style like you do it in css:
 ```css
 bottom:0; height:5px; background-color:#ff0000
 ```
+
+
+### PS
+Works great to me since 2014 but today we have Firefox 52 that could do pretty much the same and a bit more...
