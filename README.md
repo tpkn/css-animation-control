@@ -1,7 +1,3 @@
-# Css Animation Control
-Play or pause all css animation by pressing one button
-
-
 ![preview](https://github.com/tpkn/css-animation-control/blob/master/preview.gif)
 
 
