@@ -19,16 +19,15 @@ ac.play();
 ac.pause();
 ac.toggle();
 ```
-
-
+<br />
 
 
 ### Customisations
-
 You could change timeline bar style like you do it in css:
 ```css
 bottom:0; height:5px; background-color:#ff0000
 ```
+<br />
 
 
 ### PS
